@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/model/ThanhVien451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdkhachhang/GDChinhKhachHang451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdnhanvienql/GDChonPhim451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdkhachhang/GDTimPhim451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/model/Phim451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdnhanvienql/GDChonThoiGian451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/controller/PhimServlet451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/controller/PhongChieuServlet451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdchung/GDDangNhap.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/model/KhachHang451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdnhanvienql/GDChinhNVQL451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/dao/ThanhVienDAO451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/model/NhanVien451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/controller/KhachHangServlet451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/model/TheThanhVien451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/dao/LichChieuDAO451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/controller/DangNhapServlet451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdnhanvienql/GDThemPhim451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/dao/DAO451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/dao/PhimDAO451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdkhachhang/GDThongTinPhim451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/controller/LichChieuServlet451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/src/java/dao/PhongChieuDAO451.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/gdnhanvienql/GDQuanLyLichChieu451.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/CineMan/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
