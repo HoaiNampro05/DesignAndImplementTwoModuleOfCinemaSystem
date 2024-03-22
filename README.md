@@ -13,4 +13,6 @@ nhập → click vào một phim xem chi tiết → hệ thống hiện thông t
 chiếu → chọn khung giờ và ngày chiếu → tìm và chọn phòng chiếu còn rảnh vào khung
 giờ đã chọn → chọn phim từ danh sách đang chiếu (thêm mới nếu chưa có) → xác nhận
 → hệ thống báo thành công
-  # sử dụng javaservlet, mysql
+  # Công nghệ
+  - Java Servelet
+  - MySQL
